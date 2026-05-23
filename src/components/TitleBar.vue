@@ -11,7 +11,7 @@
           }"
           src="@/assets/static/avatar.jpg"
           alt="avatar-title" />
-        <span style="color: white; opacity: visibleOpacity">Tiouo</span>
+        <span style="color: white; opacity: visibleOpacity">frostsalix</span>
       </div>
       <div class="right">
         <button

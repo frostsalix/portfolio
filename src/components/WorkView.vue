@@ -9,7 +9,7 @@
       <div class="content-body animate-up" ref="contentRef">
         I enjoy making
         <a
-          href="https://github.com/tiouoo"
+          href="https://github.com/frostsalix"
           target="_blank"
           rel="noopener noreferrer"
           class="link-tag"
@@ -44,7 +44,7 @@
         style="margin-bottom: 32px"
         class="git-contribution-chart animate-up"
         ref="chartRef"
-        src="https://ghchart.rshah.org/409ba5/tiouoo"
+        src="https://ghchart.rshah.org/409ba5/frostsalix"
         alt="git-contribution-chart" />
 
       <div class="project-container">
@@ -109,36 +109,36 @@ const vueTags = [
 ];
 const projects = [
   {
-    repo: 'tiouoo / Aurelio',
-    link: 'https://github.com/tiouoo/Aurelio',
+    repo: 'frostsalix / Aurelio',
+    link: 'https://github.com/frostsalix/Aurelio',
     description: 'A modern and cross-platform workspace solution.',
     // img: 'https://f.tiouo.xyz/picgo/20260425105739382.png',
     tags: [...avaloniaTags, { name: 'App', color: '1 220 255' }],
   },
   {
-    repo: 'tiouoo / TioUi.Avalonia',
-    link: 'https://github.com/tiouoo/TioUi.Avalonia',
+    repo: 'frostsalix / TioUi.Avalonia',
+    link: 'https://github.com/frostsalix/TioUi.Avalonia',
     description:
       'Modern Fluent Design components for Avalonia, built for a seamless user experience.',
     // img: 'https://f.tiouo.xyz/picgo/20260425110416441.png',
     tags: [...avaloniaTags, { name: 'Library', color: '246 176 35' }],
   },
   {
-    repo: 'tiouoo / YMCL.Avalonia',
-    link: 'https://github.com/tiouoo/YMCL.Avalonia',
+    repo: 'frostsalix / YMCL.Avalonia',
+    link: 'https://github.com/frostsalix/YMCL.Avalonia',
     description: 'A modern and cross-platform Minecraft launcher for a seamless gaming experience.',
     // img: 'https://f.tiouo.xyz/picgo/20260425104546879.png',
     tags: [...avaloniaTags, { name: 'App', color: '1 220 255' }],
   },
   {
-    repo: 'tiouoo / tiouo.web',
-    link: 'https://github.com/tiouoo/tiouo.web',
+    repo: 'frostsalix / tiouo.web',
+    link: 'https://github.com/frostsalix/tiouo.web',
     description: 'This website you are browsing.',
     tags: [...vueTags, { name: 'Web', color: '206 103 141' }],
   },
   {
-    repo: 'tiouoo / tiouo.api',
-    link: 'https://github.com/tiouoo/tiouo.api',
+    repo: 'frostsalix / tiouo.api',
+    link: 'https://github.com/frostsalix/tiouo.api',
     description: 'A transfer api for convenient functions.',
     tags: [
       { name: 'Express.js', color: '215 119 108' },

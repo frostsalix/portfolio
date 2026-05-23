@@ -8,9 +8,9 @@ const pwaConfig = {
   },
   includeAssets: ['favicon.ico', 'icon-192.png', 'icon-512.png'],
   manifest: {
-    name: 'tiouo',
-    short_name: 'tiouo',
-    description: 'tiouo',
+    name: 'frostsalix',
+    short_name: 'frostsalix',
+    description: 'frostsalix',
     theme_color: '#ffffff',
     background_color: '#ffffff',
     display: 'standalone',
